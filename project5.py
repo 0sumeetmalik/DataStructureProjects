@@ -16,4 +16,3 @@ class Block:
         sha.update(hash_str)
 
         return sha.hexdigest()
-
