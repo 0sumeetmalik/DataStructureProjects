@@ -4,8 +4,6 @@ Blockchain linked list has head and tail which track first and last node which c
 
 """
 
-
-
 import hashlib
 from datetime import datetime
 
