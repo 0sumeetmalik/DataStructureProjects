@@ -13,6 +13,7 @@ Then added to cache if length of item has not not exceeded capacity
 # if capacity is exceed, then we removed the oldest_item using POP
 and added new cache item and then if statement added the key
 
+Time Complexity O(1)
 """
 
 

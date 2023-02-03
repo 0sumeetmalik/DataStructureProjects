@@ -2,6 +2,7 @@
 Created a Node name block which hold various values and created a linkedlist named as Blockchain
 Blockchain linked list has head and tail which track first and last node which contains all block data
 
+Time complexity is O(1)
 """
 
 import hashlib

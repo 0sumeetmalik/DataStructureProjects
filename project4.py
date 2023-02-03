@@ -1,3 +1,11 @@
+"""
+Created a recursive function which check each folder whether it is group
+if yes, it goes further in, also checks if user exit in each stage
+As soon as user is found, it returns True value
+
+"""
+
+
 class Group(object):
     def __init__(self, _name):
         self.name = _name

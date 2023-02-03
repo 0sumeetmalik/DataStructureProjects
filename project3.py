@@ -7,6 +7,9 @@ Followed instruction on page, but created a huffman code class to handle all pro
 5. Storing a reverse char to code and code to char which can be used for decoding
 6. Perform 3 different test also
 
+Time complexity is dependent on number of different characters in the database
+For N type of characters we will have n! branches so complexity is O(n!)
+
 """
 
 import sys
